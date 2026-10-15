@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Jeffrey Fagbemi 👋
 
-<!--
-**Tsmjeff/Tsmjeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Data Analyst with hands-on experience using Excel, Power BI, Power Query, and SQL to clean, analyze, and visualize data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning raw data into meaningful business insights and creating dashboards that support better decision-making.
+
+## Skills
+
+- Microsoft Excel
+- Power BI
+- Power Query
+- SQL
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- Business Analysis
+- PivotTables
+- Data Reporting
+
+## Featured Projects
+
+### Retail Sales Performance Analysis
+
+Analyzed 2024–2025 retail sales and customer data to identify revenue trends, product performance, regional performance, customer behaviour, payment patterns, and customer satisfaction issues.
+
+**Tools:** Excel, Power Query, Power BI
+
+[View Project](https://github.com/Tsmjeff/retail-sales-analysis)
+
+## Currently Developing
+
+- Advanced SQL
+- Power BI
+- Business Intelligence
+- Data Storytelling
+
+## Career Goal
+
+I am building practical data analysis projects and developing my portfolio to pursue opportunities as a Data Analyst or Business Intelligence Analyst.
