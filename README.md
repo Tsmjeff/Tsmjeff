@@ -29,6 +29,14 @@ Analyzed 2024–2025 retail sales and customer data to identify revenue trends, 
 
 [View Project](https://github.com/Tsmjeff/retail-sales-analysis)
 
+### Compensation & Pay Equity Analysis
+
+Analyzed compensation data for 1,000 employees using Power BI to investigate gender pay differences across departments, seniority levels, education, job titles, and performance.
+
+**Tools:** Power BI, Power Query, DAX
+
+[View Project](https://github.com/Tsmjeff/compensation-pay-equity-analysis)
+
 ## Currently Developing
 
 - Advanced SQL
