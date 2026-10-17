@@ -1,57 +1,108 @@
-# Hi, I'm Jeffrey Fagbemi 👋
+# Jeffrey Fagbemi | Data Analyst | Business Intelligence
 
-## About Me
+I build data-driven solutions that help businesses understand performance, identify risks, uncover growth opportunities, and make better decisions.
 
-I am a Data Analyst with hands-on experience using Excel, Power BI, Power Query, and SQL to clean, analyze, and visualize data.
+My work focuses on transforming raw business data into structured analysis, executive dashboards, and actionable recommendations using Power BI, SQL, Excel, Power Query, and DAX.
 
-I enjoy turning raw data into meaningful business insights and creating dashboards that support better decision-making.
+## Core Competencies
 
-## Skills
+- Business Intelligence & Executive Reporting
+- Advanced Data Analysis
+- Power BI Dashboard Development
+- Power Query & Data Transformation
+- DAX & KPI Development
+- SQL Analysis
+- Data Cleaning & Quality Validation
+- Business Performance Analysis
+- Customer & Product Analytics
+- Profitability & Revenue Analysis
+- HR & Compensation Analytics
+- Trend & Variance Analysis
+- Data Storytelling
+- Strategic Recommendations
 
-- Microsoft Excel
-- Power BI
-- Power Query
-- SQL
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
-- Business Analysis
-- PivotTables
-- Data Reporting
+## Analytics Approach
+
+My projects follow an end-to-end analytical workflow:
+
+**Business Problem → Data Preparation → Analysis → Dashboard Development → Insight Generation → Recommendations**
+
+I focus not only on reporting what happened, but also on identifying why it happened, where performance gaps exist, and what actions decision-makers can take next.
 
 ## Featured Projects
 
 ### Retail Sales Performance Analysis
 
-Analyzed 2024–2025 retail sales and customer data to identify revenue trends, product performance, regional performance, customer behaviour, payment patterns, and customer satisfaction issues.
+Analyzed 2024–2025 retail sales and customer data to evaluate revenue growth, product performance, regional trends, customer behaviour, payment channels, and transaction quality.
 
-**Tools:** Excel, Power Query, Power BI
+Key outcomes included identifying volume-driven revenue growth, regional performance gaps, customer experience risks, and opportunities to improve average transaction value.
+
+**Tools:** Power BI, Power Query, Excel
 
 [View Project](https://github.com/Tsmjeff/retail-sales-analysis)
 
+---
+
 ### Compensation & Pay Equity Analysis
 
-Analyzed compensation data for 1,000 employees using Power BI to investigate gender pay differences across departments, seniority levels, education, job titles, and performance.
+Conducted an organization-wide compensation analysis covering 1,000 employees to investigate pay equity across gender, department, seniority, education, job title, and performance.
+
+The analysis identified a 9.5% unadjusted gender pay gap and highlighted early-career compensation disparities, departmental differences, and the limited relationship between performance ratings and pay.
 
 **Tools:** Power BI, Power Query, DAX
 
 [View Project](https://github.com/Tsmjeff/compensation-pay-equity-analysis)
 
-### Optimus-Elite Superstore Analysis
+---
 
-Analyzed four years of superstore sales data to evaluate profitability, product performance, regional efficiency, customer segments, order priority, and revenue growth.
+### Optimus-Elite Superstore Performance Analysis
+
+Analyzed four years of retail sales data to assess profitability, product performance, regional efficiency, customer segments, order priority, and revenue growth.
+
+The analysis identified product concentration, regional performance gaps, customer segment contribution, and opportunities to improve profitability.
 
 **Tools:** Power BI, Power Query, Excel
 
 [View Project](https://github.com/Tsmjeff/optimus-elite-superstore-analysis)
 
-## Currently Developing
+## Business Domains Analyzed
 
-- Advanced SQL
+- Retail & Sales
+- Customer Analytics
+- Revenue & Profitability
+- HR & Compensation
+- Regional Performance
+- Product Performance
+- Business Operations
+
+## Technical Skills
+
+**Business Intelligence**
 - Power BI
-- Business Intelligence
+- DAX
+- Power Query
+- KPI Development
+- Interactive Dashboards
+
+**Data Analysis**
+- SQL
+- Excel
+- PivotTables
+- Data Cleaning
+- Trend Analysis
+- Segmentation Analysis
+
+**Business Analysis**
+- Performance Measurement
+- Root-Cause Analysis
+- Executive Reporting
+- Strategic Recommendation Development
 - Data Storytelling
 
-## Career Goal
+## What I Bring to Analytics
 
-I am building practical data analysis projects and developing my portfolio to pursue opportunities as a Data Analyst or Business Intelligence Analyst.
+- Ability to translate business questions into analytical frameworks
+- Experience building executive-level dashboards and reports
+- Strong focus on business impact rather than visualization alone
+- Ability to identify risks, performance gaps, and growth opportunities
+- Clear communication of findings to non-technical stakeholders
