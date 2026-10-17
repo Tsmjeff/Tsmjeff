@@ -37,6 +37,14 @@ Analyzed compensation data for 1,000 employees using Power BI to investigate gen
 
 [View Project](https://github.com/Tsmjeff/compensation-pay-equity-analysis)
 
+### Optimus-Elite Superstore Analysis
+
+Analyzed four years of superstore sales data to evaluate profitability, product performance, regional efficiency, customer segments, order priority, and revenue growth.
+
+**Tools:** Power BI, Power Query, Excel
+
+[View Project](https://github.com/Tsmjeff/optimus-elite-superstore-analysis)
+
 ## Currently Developing
 
 - Advanced SQL
