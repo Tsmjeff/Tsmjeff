@@ -4,7 +4,7 @@ I build data-driven solutions that help businesses understand performance, ident
 
 My work focuses on transforming raw business data into structured analysis, executive dashboards, and actionable recommendations using **Power BI, SQL, Excel, Power Query, DAX, and AI-assisted analytical workflows**.
 
-I combine traditional analytics with AI to accelerate exploration, improve analytical efficiency, strengthen documentation, and move more quickly from business questions to validated insights — while maintaining human oversight over data quality, interpretation, and final recommendations.
+I combine traditional analytics with AI to accelerate exploration, improve analytical efficiency, strengthen documentation, and move more quickly from business questions to validated insights  while maintaining human oversight over data quality, interpretation, and final recommendations.
 
 ---
 
